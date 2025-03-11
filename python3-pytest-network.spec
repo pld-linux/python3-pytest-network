@@ -2,7 +2,7 @@ Summary:	A simple plugin to disable network on socket level
 Summary(pl.UTF-8):	Prosta wtyczka wyłączająca sieć na poziomie gniazd
 Name:		python3-pytest-network
 Version:	0.0.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-network/
